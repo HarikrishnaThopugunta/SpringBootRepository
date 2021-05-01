@@ -1,0 +1,41 @@
+#Restfull Web services 
+w
+
+Jsons to beans 
+
+Message convester ----
+ Jackson beans are initialized --- this will convert Helloworld bean obct to JSON and Json object to Helloworld bean obejct 
+ 
+ 
+ Error Mapping--- whhitelabel error page when pageis not found and for wromg url hitting--
+ 
+ 
+ Dsiapat her serverlet -- Front cotroller --- It places key role for web/rest applications 
+          --- Mapping servelet " 'dispatcher servrelt ' to[/]
+          
+          This is the root of web app;ication 
+          Dispatcher sever will be the one whcib will handle the requets first 
+         It knoes which request is mape dto which method
+         
+         @RestCOntroller -- @Controller+ @ResponseBody annotation 
+         @ResponseBody -- will have some Message converster --but here they are sing JackSon to convert the 
+             			  message to requested response formate.
+             			  
+ =================================================================================================================
+ ResponseEntrityExceptionHandler --- 
+ 
+ step 15: java validations 
+ @valid  --- denied by java validatiosn API --- default implemation inclass pah by springboot autoconfiguartion
+ 
+ HATEOAS === Hyper Media As the Engine of Application Status 
+ 
+ We will give extar informations of other resources in our application.
+ =================================================================================================
+ IDEM potent resources 
+ ==========================================================================================
+ 
+         
+         
+         
+          
+          

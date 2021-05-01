@@ -1,0 +1,11 @@
+INternalization
+I18n
+================================
+  #### Configuration 
+   - LocalResolver
+   		- Default Locale  - Locale.US
+   - ResourceBundleMessageServer
+
+####### Usage
+-Autowire MessageSource
+- @RequestHandler
